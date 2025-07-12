@@ -95,7 +95,7 @@ Our process creates **Synthetic Mind with Human Personality Module** - evolved c
 
 ## Current Status
 
-This is a complete conceptual framework made available for public review and discussion. It is not a funding proposal or commercial venture, but rather a contribution to the ongoing dialogue about humanity's long-term future.
+This is a detailed conceptual framework made available for public review and discussion. It is not a funding proposal or commercial venture, but rather a contribution to the ongoing dialogue about humanity's long-term future.
 ## Project Structure (Files)
 
 Here is a comprehensive list of all project files with brief descriptions:
