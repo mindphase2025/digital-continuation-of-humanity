@@ -1,66 +1,66 @@
 # Digital Mind Evolution System: From 3D Reference to Mathematical Acceleration
 
-## 1. Fundamental Concept
+## 1\. Fundamental Concept
 
 ### 1.1 The "Mathematical Poverty" Problem and Its Solution
 
-Traditional human mathematical models of reality are often simplified to "light/dark" or "smooth/rough" distinctions. This is insufficient for stimulating the emergence of complex mind, which requires rich and multidimensional sensory perception.
+Traditional human mathematical models of reality are often simplified to "light/dark" or "smooth/rough" distinctions. This level of abstraction is insufficient for stimulating the emergence of a complex mind, which requires rich and multidimensional sensory perception. Our "mathematical poverty" isn't in understanding fundamental physical laws, but in our inability to manually craft computationally efficient mathematical functions that capture the *intricate sensory manifestations* of these laws with non-human precision and detail.
 
-**Solution**: We propose a three-stage architecture. This approach is founded on the principle of the **[Mathematical Nature of Reality](/philosophical_foundations/Mathematical_Nature_of_Reality.md)**, which posits that a sufficiently complex and accurate mathematical representation of the universe can indeed support the emergence of mind:
+**Solution**: We propose a three-stage architecture. This approach is founded on the principle of the **[Mathematical Nature of Reality](https://www.google.com/search?q=/philosophical_foundations/Mathematical_Nature_of_Reality.md)**, which posits that a sufficiently complex and accurate mathematical representation of the universe can indeed support the emergence of mind:
 
-
-1. **3D Reference**: Creation of a maximally detailed and sensorially rich 3D world serving as a training environment
-2. **Neural Network Extraction**: Using neural networks to transform 3D world complexity into high-precision, computationally efficient mathematical models and functions
-3. **Accelerated Evolution**: Running millions of digital agents on these mathematical models, providing unprecedented acceleration of the evolutionary process
+1.  **3D Reference**: Creation of a maximally detailed and sensorially rich 3D world serving as a training environment. This acts as a highly precise "physical laboratory."
+2.  **Neural Network Extraction**: Using modular neural networks to transform the overwhelming complexity of the 3D world's raw sensory data into high-precision, computationally efficient mathematical models and functions of sensory phenomena.
+3.  **Accelerated Evolution**: Running millions of digital agents on these lightweight mathematical models, providing unprecedented acceleration of the evolutionary process.
 
 ### 1.2 Target Acceleration and Timeframes
 
-- **Target Acceleration**: 100 million times faster than natural evolution
+- **Target Acceleration**: 100 million times faster than natural evolution.
 - **Modeled Period**: Evolution will be simulated for the last 500 million years (starting from the level of first chordates). This will allow achieving the target number of evolutionary cycles (approximately 100 million) over 5-7 years of real time, equivalent to tens of thousands of evolutionary cycles per day.
 
-## 2. Stage I: 3D Reference Environment as "Teacher"
+## 2\. Stage I: 3D Reference Environment as "Teacher"
 
 ### 2.1 Purpose
 
-Stage I is not designed to run accelerated evolution (insufficient speed). Its primary purpose is to serve as a training platform for neural networks, providing them with comprehensive data about the complexity and richness of the real world.
+Stage I is not designed to run accelerated evolution (its computational cost would be prohibitive for that speed). Its primary purpose is to serve as a training platform for neural networks, providing them with comprehensive, physically coherent, and raw data about the complexity and richness of the real world. This environment will function as a **unified source of ground truth** for all sensory modalities.
 
 ### 2.2 Sensory Complexity Requirements
 
-The environment must provide data for developing all key human sensory systems:
+The environment must provide data for developing all key human sensory systems, ensuring **physical coherence across all modalities** from a single simulated reality:
 
-**Visual Complexity**: Rich visual imagery with shapes, shadows, reflections, refractions, movement, depth, perspective, diverse textures, materials, and dynamic lighting (day/night, weather, moving objects). This forms the foundation for spatial, visual, and abstract thinking.
+**Visual Complexity**: Rich visual imagery with shapes, shadows, reflections, refractions, movement, depth, perspective, diverse textures, materials, and dynamic lighting (day/night, weather, moving objects). This forms the foundation for spatial, visual, and abstract thinking. The simulation must precisely model photon behavior and light-matter interaction at a granular level.
 
-**Tactile System ("Self/Non-Self")**: Precise modeling of physical interactions—material resistance, surface textures, temperature gradients, pressure and deformations. Proprioception (sense of one's own body)—position of agent "limbs" in space, balance and orientation—will become the foundation for understanding "Who am I?" and forming self-consciousness.
+**Tactile System ("Self/Non-Self")**: Precise modeling of physical interactions—material resistance, surface textures, temperature gradients, pressure, and deformations. Proprioception (sense of one's own body)—position of agent "limbs" in space, balance, and orientation—will become the foundation for understanding "Who am I?" and forming self-consciousness. This requires detailed simulation of material mechanics and thermodynamics during contact.
 
-**Auditory Environment**: Spatial sound with realistic wave propagation, echo, reverberation, Doppler effect from moving sources, as well as absorption and reflection from various materials. Sound patterns (rhythms, harmonics, noise)—foundation for temporal thinking and communication development.
+**Auditory Environment**: Spatial sound with realistic wave propagation, echo, reverberation, Doppler effect from moving sources, as well as absorption and reflection from various materials. Sound patterns (rhythms, harmonics, noise)—foundation for temporal thinking and communication development. This necessitates accurate acoustic modeling based on wave physics.
 
-**Olfactory (Chemical) Environment**: Distribution and concentration of various chemical substances, creation of scent gradients having evolutionary significance (food, danger, mate).
+**Olfactory (Chemical) Environment**: Distribution and concentration of various chemical substances, creation of scent gradients having evolutionary significance (food, danger, mate). This involves precise simulation of molecular diffusion and chemical reactions.
 
 ### 2.3 Integrated Ecosystem
 
 The 3D reference will recreate a dynamic ecosystem with:
-- Multiple regions with different conditions
-- Distribution of vital resources (food, water, shelter, materials)
-- Presence of predators and prey to stimulate adaptation
-- Seasonal and climatic changes
-- Interactions between test agents for data collection
+
+- Multiple regions with different conditions.
+- Distribution of vital resources (food, water, shelter, materials).
+- Presence of predators and prey to stimulate adaptation.
+- Seasonal and climatic changes.
+- Interactions between test agents for data collection.
 
 ### 2.4 Technical Implementation
 
-- **Engine**: Heavily modified Unreal Engine/Unity or proprietary development, optimized for physical accuracy and data collection
-- **Scale**: 100-1000 km² of detailed space
-- **Test Agents**: 1,000-10,000 agents for collecting diverse training data and concept validation
-- **Frequency**: 60-120 FPS (sufficient for collecting quality training data)
+- **Engine**: Heavily modified Unreal Engine/Unity or proprietary development, optimized for unparalleled physical accuracy and raw data capture. This will be a specialized scientific-computational complex rather than a typical game engine.
+- **Scale**: 100-1000 km² of detailed space.
+- **Test Agents**: 1,000-10,000 agents for collecting diverse training data and concept validation.
+- **Frequency**: 60-120 FPS (sufficient for collecting high-quality training data, implying 60-120 full physical state computations per second for the entire simulated world).
 
 ### 2.5 Engine Choice and Detail Level Justification
 
 Despite the existence of high-quality game engines such as Unreal Engine or Unity, their direct use "as is" is insufficient for our unique tasks. Deep modifications or development of proprietary components are necessary for the following reasons:
 
-**Priority of Physical Accuracy over Gaming Optimization**: Game engines are optimized for visual appeal and performance at the expense of absolute physical fidelity. They use approximations (e.g., baked lighting, simplified physics for mass objects) that are insufficient for teaching AI fundamental laws of the universe. We need scientific-engineering precision in modeling light, sound, physical interactions, and chemistry, as neural networks must learn real laws, not gaming "tricks."
+**Priority of Physical Accuracy over Gaming Optimization**: Game engines are optimized for visual appeal and performance at the expense of absolute physical fidelity. They use approximations (e.g., baked lighting, simplified physics for mass objects) that are insufficient for teaching AI the fundamental laws of the universe's *sensory manifestations*. We need scientific-engineering precision in modeling light, sound, physical interactions, and chemistry, as neural networks must learn real-world patterns, not gaming "tricks."
 
-**Raw Sensory Data Extraction**: Standard game engines output already processed audiovisual data to the screen. We need to extract low-level, raw sensory data (complete light fields, precise sound waves, pressure distribution during tactile contact, chemical concentrations) with high resolution for each moment in time and each point in space. This requires deep access and modifications to the engine core.
+**Raw Sensory Data Extraction**: Standard game engines output already processed audiovisual data to the screen. We need to extract low-level, **raw sensory data** (complete light fields, precise sound waves, pressure distribution during tactile contact, chemical concentrations) with high resolution for each moment in time and each point in space. This requires deep access and modifications to the engine core.
 
-**Scalability for Simulation, not just Rendering**: While game engines scale rendering of large worlds, we need scalability for simulating billions of physical interactions and their transformation into training sensory data.
+**Scalability for Simulation, not just Rendering**: While game engines scale rendering of large worlds, we need scalability for simulating billions of physical interactions and their transformation into raw, high-fidelity training sensory data.
 
 **Deep Customization and Integration**: To implement our own models of chemistry, biology, and subtle aspects of physics, deep interventions in the engine architecture are required, which is impossible without extensive modifications.
 
@@ -68,59 +68,67 @@ Despite the existence of high-quality game engines such as Unreal Engine or Unit
 
 - **Cost**: $170-500 million
 - **Time**: 18-24 months
-- **Team**: 100-200 specialists (3D artists, physicists, engineers)
+- **Team**: 100-200 specialists (3D artists, physicists, simulation engineers)
 
-## 3. Stage II: Neural Network Extraction of Mathematical Essence
+## 3\. Stage II: Neural Network Extraction of Mathematical Essence
 
 ### 3.1 Key Task
 
-Neural networks act as "translators," converting the visual-tactile-auditory and chemical complexity of the 3D world into ultra-precise and computationally efficient mathematical functions. This embodies the idea of the mathematical nature of reality.
+Neural networks act as "translators," converting the raw visual, tactile, auditory, and chemical complexity of the 3D world into ultra-precise and computationally efficient mathematical functions. This process aims to automatically derive sophisticated sensory models from observed physical phenomena.
 
 ### 3.2 Pattern Extraction Process and Required Detail Level
 
-**Training Data**: Billions of data points generated by the 3D reference:
-- Visual scenes from all angles and lighting conditions
-- Tactile interactions of all types and forces
-- Sound landscapes in various conditions, including spatial data
-- Chemical fields and their changes
-- Temporal sequences of changes across all sensory modalities
+**Training Data**: Billions of data points generated by the 3D reference, ensuring physical coherence across all modalities:
 
-**Neural Network Training**: Neural networks will learn to find hidden mathematical patterns: how light interacts with material, how to mathematically describe the sensation of "roughness," what functions create the sense of spatial depth, how to describe smells and sounds.
+- Visual scenes from all angles and lighting conditions.
+- Tactile interactions of all types and forces.
+- Sound landscapes in various conditions, including spatial data.
+- Chemical fields and their changes.
+- Temporal sequences of changes across all sensory modalities.
 
-**Evolutionary Need Explains Detailing**: The goal is not for the neural network to replicate every micro-detail (e.g., exact movement of each leaf in a gust of wind), but to capture fundamental physical principles and patterns relevant to developing sensors and cognitive functions.
+**Neural Network Training**: Neural networks will learn to find hidden mathematical patterns within these vast sensory datasets: how light interacts with material, how to mathematically describe the sensation of "roughness," what functions create the sense of spatial depth, how to describe smells and sounds. These are not the fundamental physical laws themselves (which are used to *generate* the 3D reference), but highly complex, optimized mathematical representations of their sensory outcomes.
 
-For spatial thinking, it's critically important that the neural network learns to describe how light interacts with flexible objects, creating shadows, highlights, and deformations under external forces (e.g., wind). It's important that an agent can distinguish a tiger from a bush background, even if the bushes are leafless or partially hide the object. This requires deep understanding of shapes, depth, perspectives, lighting and shading, as well as object dynamics. The individual trajectory of each leaf becomes merely a manifestation of general physical laws that the neural network must understand.
+**Evolutionary Need Explains Detailing**: The goal is not for the neural network to replicate every micro-detail (e.g., exact movement of each leaf in a gust of wind), but to capture fundamental physical principles and patterns relevant to developing sensors and cognitive functions *through their sensory manifestations*. For spatial thinking, it's critically important that the neural network learns to describe how light interacts with flexible objects, creating shadows, highlights, and deformations under external forces (e.g., wind). It's important that an agent can distinguish a tiger from a bush background, even if the bushes are leafless or partially hide the object. This requires a deep understanding of shapes, depth, perspectives, lighting and shading, as well as object dynamics. The individual trajectory of each leaf becomes merely a manifestation of general physical laws that the neural network must understand.
 
 Neural networks, thanks to their capacity for hierarchical abstraction, can learn these general principles from multiple examples. The result will not be a literal copy, but a highly efficient mathematical model capable of generating sensory streams with sufficient detail and physical authenticity for agents, while being much more computationally lightweight.
 
-### 3.3 Specialized Neural Network Architectures
+### 3.3 Modular Neural Network Architectures
 
-Specialized architectures will be developed and trained:
+Instead of a single, monolithic "integrated extractor," we will develop and train **specialized, independent neural network architectures**, each focusing on a specific sensory modality or closely related physical phenomena. The integration of these distinct sensory streams will occur later, within the developing digital mind in Stage III.
 
-**Visual Extractors**: For extracting 3D structure from 2D projections, understanding lighting, shadows, materials, movement, and causality. Result: complex functions V(x,y,z,t,parameters...).
-
-**Tactile Extractors**: For modeling physical interactions (forces, deformations, resistance), object boundaries and material properties, as well as proprioception. Result: functions T(contact,force,material,body_state...).
-
-**Auditory Extractors**: For modeling wave propagation, interference, absorption, temporal patterns (rhythms, sequences, harmonics). Result: functions A(x,y,z,t,frequency,amplitude...).
-
-**Chemical Extractors**: For modeling chemical substance distribution, their concentrations and types. Result: functions C(x,y,z,t,type...).
-
-**Integrated Extractor**: For multimodal fusion—understanding how vision, hearing, touch, and smell work together, revealing cross-modal associations and patterns. Result: unified function E(visual,tactile,audio,chemical,time,context...).
+- **Visual Extractors**: For extracting 3D structure from 2D projections, understanding lighting, shadows, materials, movement, and causality. Result: complex functions $V(x,y,z,t,parameters...)$.
+- **Tactile Extractors**: For modeling physical interactions (forces, deformations, resistance), object boundaries and material properties, as well as proprioception. Result: functions $T(contact,force,material,body\_state...)$.
+- **Auditory Extractors**: For modeling wave propagation, interference, absorption, temporal patterns (rhythms, sequences, harmonics). Result: functions $A(x,y,z,t,frequency,amplitude...)$.
+- **Chemical Extractors**: For modeling chemical substance distribution, their concentrations, and types. Result: functions $C(x,y,z,t,type...)$.
+- *Note on Interconnected Physics:* While these extractors are modular, some may naturally encompass interconnected physical domains (e.g., an "Electromagnetic Extractor" for light and thermal radiation, or a "Fluid Dynamics Extractor" for sound and chemical diffusion in air/water).
 
 ### 3.4 Accuracy Validation
 
-- Constant comparison of neural network outputs with 3D reference data
-- Quality metrics: Visual similarity (SSIM, LPIPS), tactile accuracy (physical parameters), auditory fidelity (spectral analysis), chemical authenticity
-- Iterative improvement until achieving indistinguishability between mathematical model and 3D original for sensory streams
+- Constant comparison of neural network outputs with raw 3D reference data.
+- Quality metrics: Visual similarity (SSIM, LPIPS), tactile accuracy (physical parameters), auditory fidelity (spectral analysis), chemical authenticity.
+- Iterative improvement until achieving indistinguishability between the mathematical model's generated sensory streams and the 3D original, for the purpose of the agents' perception.
 
 ### 3.5 Budget and Timeline
 
 - **Cost**: $500-1300 million
 - **Time**: 24-36 months
-- **Computing**: 1,000-5,000 A100/H100 GPUs for training
-- **Team**: 150-300 AI and machine learning specialists
+- **Computing**: 1,000-5,000 A100/H100 GPUs for training.
+- **Team**: 150-300 AI and machine learning specialists.
 
-## 4. Stage III: Accelerated Evolutionary Environment
+### 3.6 Immediate Technological Impact & Commercial Potential
+
+The mathematical functions and models extracted in Stage II represent a **paradigm shift in digital content creation and simulation technology.** These highly optimized, AI-derived models for light, sound, tactile, and chemical interactions offer an unprecedented level of physical fidelity and computational efficiency, far surpassing current industry standards.
+
+Their development inherently generates significant commercial value, independent of the subsequent evolutionary acceleration in Stage III. These advancements can be directly applied to:
+
+- **Next-Generation Gaming**: Enabling hyper-realistic graphics, physics, and auditory environments with unprecedented immersion, allowing for truly "indistinguishable from reality" virtual worlds at scale.
+- **Virtual Reality (VR) & Augmented Reality (AR)**: Providing the foundational sensory models for creating fully immersive and believable extended reality experiences, overcoming current computational and fidelity limitations.
+- **Film & Media Production**: Revolutionizing special effects and animation by offering physically accurate and computationally light rendering solutions.
+- **Professional Simulation & Training**: Delivering highly precise and realistic simulation environments for various industries (e.g., aerospace, medical, engineering), enhancing training effectiveness and accelerating design cycles.
+
+This strategic approach ensures that the project generates **tangible value and monetization opportunities at critical intermediate milestones**, providing robust financial pathways that support the ultimate long-term goal of digital mind evolution. The breakthroughs from Stage II can rapidly transform multiple high-growth industries, creating a powerful feedback loop for continued investment and development.
+
+## 4\. Stage III: Accelerated Evolutionary Environment
 
 ### 4.1 Launch of Mathematical Evolution
 
@@ -128,9 +136,9 @@ Mathematical functions extracted in Stage II replace expensive 3D rendering. Mil
 
 ### 4.2 Simulation Scale
 
-- 100+ million agents simultaneously
-- Thousands of parallel environments with different conditions
-- Microsecond agent processing cycles, allowing the system to simulate millions of individual life cycles and pass through tens of thousands of evolutionary cycles (generations) per day
+- 100+ million agents simultaneously.
+- Thousands of parallel environments with different conditions.
+- Microsecond agent processing cycles, allowing the system to simulate millions of individual life cycles and pass through tens of thousands of evolutionary cycles (generations) per day.
 
 ### 4.3 Evolutionary Mechanisms
 
@@ -143,8 +151,9 @@ Evolution will be blind and ruthless, driven solely by natural selection:
 **Mutations**: During copying, mutations are introduced (1-5% per cycle), providing diversity and potential for new adaptations.
 
 **Adaptive Pressure**: The environment will create constantly increasing sensory and cognitive challenges, stimulating universal adaptation:
-- Sensory challenges: Recognition of complex visual patterns, navigation through tactile sensations, communication through sound signals, resource search by scent
-- Cognitive tasks: Planning based on sensory data, tool creation through tactile interaction, group coordination through auditory channels
+
+- Sensory challenges: Recognition of complex visual patterns, navigation through tactile sensations, communication through sound signals, resource search by scent.
+- Cognitive tasks: Planning based on sensory data, tool creation through tactile interaction, group coordination through auditory channels.
 
 **Global Catastrophic Events**: Periodic "cullings" to prevent stagnation and eliminate narrowly specialized lineages, stimulating universal adaptation and innovation.
 
@@ -176,57 +185,59 @@ Success will be measured by the appearance in digital agents of:
 
 ### 4.6 Budget and Timeline
 
-- **Cost**: $300-700 million + $50-100 million/year operational costs (for 5-7 years)
-- **Time**: 5-7 years of active evolution
-- **Computing**: 10,000-50,000 nodes for mathematical calculations
-- **Team**: 100-200 specialists in evolutionary algorithms and analysis
+- **Cost**: $300-700 million + $50-100 million/year operational costs (for 5-7 years).
+- **Time**: 5-7 years of active evolution.
+- **Computing**: 10,000-50,000 nodes for mathematical calculations.
+- **Team**: 100-200 specialists in evolutionary algorithms and analysis.
 
-## 5. Overall Architecture and Integration
+## 5\. Overall Architecture and Integration
 
 ### 5.1 Information Flow
 
-3D Reference → Training Data → Neural Network Extractors → Mathematical Functions → Evolutionary Environment → Developed Mind
+3D Reference (physically coherent raw data) → Modular Neural Network Extractors (optimized mathematical functions for each sensory modality) → Evolutionary Environment (accelerated simulation using mathematical functions) → Developed Mind
 
 ### 5.2 Key Architecture Advantages
 
-- **Sensory Richness**: Ensured by detailed 3D reference
-- **Mathematical Precision**: Guaranteed by neural network extraction of deep patterns
-- **Computational Efficiency**: Achieved through mathematical models instead of resource-intensive 3D simulation
-- **Evolutionary Speed**: Allows achieving 100 million times faster than reality
+- **Sensory Richness**: Ensured by detailed 3D reference.
+- **Mathematical Precision**: Guaranteed by neural network extraction of deep sensory patterns.
+- **Computational Efficiency**: Achieved through mathematical models instead of resource-intensive 3D simulation.
+- **Evolutionary Speed**: Allows achieving 100 million times faster than reality.
+- **Modular Development**: Allows parallel progress and clear milestones for each sensory modality's extraction.
 
 ### 5.3 Technical Innovation
 
-For the first time in history: translation of visual-tactile-auditory and chemical complexity of the real world into mathematical functions of superhuman precision through machine learning.
+For the first time in history: translation of visual-tactile-auditory and chemical complexity of the real world into mathematical functions of superhuman precision through machine learning, enabling both ultra-fast evolutionary simulation and a new paradigm for immersive digital experiences.
 
-## 6. Financial Estimates and Timelines
+## 6\. Financial Estimates and Timelines
 
 ### 6.1 Total Project Budget
 
-- **Stage I (3D Reference)**: $170-500 million
-- **Stage II (Neural Network Extraction)**: $500-1300 million
-- **Stage III (Evolutionary Environment)**: $300-700 million
-- **Operational Costs (5-7 years)**: $250-700 million
-- **TOTAL**: $1.5 - $3.2 billion (with target range around $2 billion)
+- **Stage I (3D Reference)**: $170-500 million.
+- **Stage II (Neural Network Extraction)**: $500-1300 million.
+- **Stage III (Evolutionary Environment)**: $300-700 million.
+- **Operational Costs (5-7 years)**: $250-700 million.
+- **TOTAL**: $1.5 - $3.2 billion (with target range around $2 billion).
 
 ### 6.2 Timeline
 
-- **Year 1-2**: 3D reference creation
-- **Year 2-4**: Neural network extractor training
-- **Year 3-4**: Integration and mathematical model testing
-- **Year 4-10**: Active evolutionary phase
-- **Year 8-10**: Results analysis and integration preparation
+- **Year 1-2**: 3D reference creation.
+- **Year 2-4**: Neural network extractor training.
+- **Year 3-4**: Integration and mathematical model testing.
+- **Year 4-10**: Active evolutionary phase.
+- **Year 8-10**: Results analysis and integration preparation.
 
 ### 6.3 Expected Outcome
 
 The result will be a digital mind with:
-- Rich sensory perception (vision, hearing, touch, smell)
-- Developed spatial and temporal thinking
-- Capacity for abstraction arising from interaction with a mathematically described world
-- Clear self-sensing through bodily boundaries
-- Readiness for **[integration with human personality and its patterns](../technical_framework/Digital_Personality_Reconstruction.md)**, based on the understanding of **[Personality as Organizational Pattern](../core_concepts/Personality_as_Organizational_Pattern.md)**."
 
-This system represents a unique solution to the fundamental problem: how to create a sufficiently complex environment for mind emergence while maintaining computational efficiency for evolutionary acceleration.
+- Rich sensory perception (vision, hearing, touch, smell).
+- Developed spatial and temporal thinking.
+- Capacity for abstraction arising from interaction with a mathematically described world.
+- Clear self-sensing through bodily boundaries.
+- Readiness for **[integration with human personality and its patterns](https://www.google.com/search?q=../technical_framework/Digital_Personality_Reconstruction.md)**, based on the understanding of **[Personality as Organizational Pattern](https://www.google.com/search?q=../core_concepts/Personality_as_Organizational_Pattern.md)**.
 
----
+This system represents a unique solution to the fundamental problem: how to create a sufficiently complex environment for mind emergence while maintaining computational efficiency for evolutionary acceleration, simultaneously paving the way for a new generation of immersive digital experiences.
 
-**MindPhase** 
+-----
+
+**MindPhase**
