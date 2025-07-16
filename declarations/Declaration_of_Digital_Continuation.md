@@ -53,7 +53,7 @@ To preserve trust and dignity, we commit to the following principles:
 
 - **No exclusive national or corporate control:** The continuation of human consciousness must be governed by an independent, multinational, non-commercial, ethically grounded consortium. No nation, tech company, or private entity may claim exclusive ownership or control.
 - **No privilege by wealth or status:** Access to digital continuation must not become a luxury for the elite. This is a civilizational project — its benefits must be universal, equitable, and just.
-- **No exploitation or commercialization of human essence:** Life data and continuation technologies must be protected from commercial exploitation, speculative ventures, or any form of misuse that undermines the dignity and profound purpose of human existence.
+- **No exploitation or commercialization of human essence for profit:** Life data and digital continuation technologies themselves must be protected from commercial exploitation, speculative ventures, or any form of misuse that undermines the dignity and profound purpose of human existence. **However, any financial returns generated from the commercial application of *enabling technologies developed during the project's journey* (e.g., advanced simulation tools from early stages) will be exclusively and transparently reinvested back into the project's core mission to ensure its long-term sustainability, universal accessibility, and independence from external pressures.** This mechanism is designed solely to accelerate and secure the project's core mission, not to create private wealth or privileged access.
 
 ## 5\. Who Can Make It Real
 
