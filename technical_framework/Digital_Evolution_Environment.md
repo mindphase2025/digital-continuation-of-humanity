@@ -56,7 +56,7 @@ The 3D reference will recreate a dynamic ecosystem with:
 
 Despite the existence of high-quality game engines such as Unreal Engine or Unity, their direct use "as is" is insufficient for our unique tasks. Deep modifications or development of proprietary components are necessary for the following reasons:
 
-**Priority of Physical Accuracy over Gaming Optimization**: Game engines are optimized for visual appeal and performance at the expense of absolute physical fidelity. They use approximations (e.g., baked lighting, simplified physics for mass objects) that are insufficient for teaching AI the fundamental laws of the universe's *sensory manifestations*. We need scientific-engineering precision in modeling light, sound, physical interactions, and chemistry, as neural networks must learn real-world patterns, not gaming "tricks."
+**Priority of Physical Accuracy over Gaming Optimization**: Game engines are optimized for visual appeal and performance at the expense of absolute physical fidelity. They use approximations (e.g., baked lighting, simplified physics for mass objects) that are insufficient for teaching AI the fundamental laws of the universe's *sensory manifestations*. We need scientific-engineering precision in modeling light, sound, physical interactions, and chemistry. Importantly, this precision must be **sufficient for the development of complex sensory systems and cognitive functions at the level of advanced organisms (e.g., for detail allowing the formation of a cat's vision or a dog's olfaction), but not excessive for molecular or subatomic modeling, as our focus is on perception-level fidelity.** Neural networks must learn real-world patterns, not gaming "tricks."
 
 **Raw Sensory Data Extraction**: Standard game engines output already processed audiovisual data to the screen. We need to extract low-level, **raw sensory data** (complete light fields, precise sound waves, pressure distribution during tactile contact, chemical concentrations) with high resolution for each moment in time and each point in space. This requires deep access and modifications to the engine core.
 
@@ -132,36 +132,37 @@ This strategic approach ensures that the project generates **tangible value and 
 
 ### 4.1 Launch of Mathematical Evolution
 
-Mathematical functions extracted in Stage II replace expensive 3D rendering. Millions of digital agents receive rich sensory streams and interact with the environment and each other using these highly efficient mathematical models. Computational speed increases thousands of times compared to 3D simulation, providing target acceleration of 100 million times faster than reality.
+Mathematical functions extracted in Stage II replace expensive 3D rendering. Millions of digital agents receive rich sensory streams and interact with the environment and each other using these highly efficient mathematical models. Computational speed increases thousands of times compared to 3D simulation, providing target acceleration of 100 million times faster than reality. The acceleration is achieved by rapidly iterating through evolutionary cycles (generations) and periods of adaptive learning, rather than continuous, uninterrupted agent activity.
 
 ### 4.2 Simulation Scale
 
 - 100+ million agents simultaneously.
 - Thousands of parallel environments with different conditions.
-- Microsecond agent processing cycles, allowing the system to simulate millions of individual life cycles and pass through tens of thousands of evolutionary cycles (generations) per day.
+- Processing cycles designed to allow the system to simulate millions of individual life cycles and pass through tens of thousands of evolutionary cycles (generations) per day, accommodating essential periods of "rest" or "low activity" equivalent to biological sleep or recuperation, ensuring the **functional continuity** of the evolving cognitive systems without requiring constant "wakefulness."
 
 ### 4.3 Evolutionary Mechanisms
 
 Evolution will be blind and ruthless, driven solely by natural selection:
 
-**Natural Selection**: Survival of the most adapted agents capable of effectively perceiving and processing sensory information, as well as making survival decisions.
+**Natural Selection**: Survival of the most adapted agents capable of effectively perceiving and processing sensory information, as well as making survival decisions. Agent activity will be driven by **primary digital motivators** directly tied to survival—such as the need to acquire energy equivalents (digital "food"), avoid system degradation (digital "pain" or "injury"), and seek stable computational states (digital "comfort" or "safety"). These fundamental drivers will serve as the engine for all adaptive behavior.
 
 **Forking**: "Duplication" (copying) of neural architectures and associated parameters of surviving agents. Non-adaptive variants are ruthlessly eliminated. Sexual reproduction is not used in early stages.
 
 **Mutations**: During copying, mutations are introduced (1-5% per cycle), providing diversity and potential for new adaptations.
 
-**Adaptive Pressure**: The environment will create constantly increasing sensory and cognitive challenges, stimulating universal adaptation:
+**Adaptive Pressure**: The environment will create constantly increasing sensory and cognitive challenges, stimulating universal adaptation. This pressure will be carefully designed to guide the evolutionary process towards forms of intelligence compatible with human cognition.
 
 - Sensory challenges: Recognition of complex visual patterns, navigation through tactile sensations, communication through sound signals, resource search by scent.
 - Cognitive tasks: Planning based on sensory data, tool creation through tactile interaction, group coordination through auditory channels.
+- **Emergence of Socialization, Language, and Culture:** These complex phenomena are not pre-programmed. Instead, social structures, communication patterns (precursors to language), and elements of culture will be **emergent properties**, arising as a direct consequence of adaptive pressure. Agents capable of effective cooperation and information exchange in the struggle for survival will gain significant evolutionary advantages, thereby stimulating the development of increasingly complex forms of interaction and symbolic thinking characteristic of intelligent species.
 
-**Global Catastrophic Events**: Periodic "cullings" to prevent stagnation and eliminate narrowly specialized lineages, stimulating universal adaptation and innovation.
+**Global Catastrophic Events**: Periodic "cullings" to prevent stagnation and eliminate narrowly specialized lineages, stimulating universal adaptation and innovation. These events will reinforce the evolutionary path towards generalized, robust intelligence.
 
 **No Early Rewards for Intelligence/Collaboration**: Encouragement is based solely on survival principle ("survived/didn't survive"). Direct rewards for manifestations of intelligence or cooperation in early stages are not used to avoid "pseudo-intelligence" that merely optimizes for reward systems. Mind must emerge as an inevitable byproduct of solving survival tasks, as super-adaptation. Only in very late stages, with clear signs of tool-making, might the approach change.
 
 ### 4.4 Consciousness Development through Sensory Complexity
 
-Mind, as super-adaptation, will be an emergent property arising from solving increasingly complex survival tasks:
+Mind, as super-adaptation, will be an emergent property arising from solving increasingly complex survival tasks. While consciousness can theoretically manifest in diverse forms, **the environmental conditions during the later stages of evolution will be meticulously shaped to closely resemble those that fostered the development of human consciousness on Earth** (e.g., savannahs, open plains, specific geological formations). This is a conscious design choice to increase the probability of achieving an outcome compatible with human understanding of mind and consciousness, essential for eventual integration with human personality patterns. Variants of emergent cognition that develop in paths fundamentally incompatible with these guiding principles will not be propagated, ensuring a focused evolutionary trajectory towards a human-compatible digital intelligence.
 
 **Formation of "Self" Concept**: Through precise tactile boundaries and proprioception (sense of one's own body), agents will form clear understanding of their body and its interaction with the environment.
 
