@@ -96,6 +96,17 @@ Our process creates **Synthetic Mind with Human Personality Module** - evolved c
 ## Current Status
 
 This is a detailed conceptual framework made available for public review and discussion. It is not a funding proposal or commercial venture, but rather a contribution to the ongoing dialogue about humanity's long-term future.
+---
+
+## For Visionaries and Investors: The Future of Humanity – Starting Today
+
+We offer not just a concept, but a **roadmap to the long-term survival and evolution of humanity**. The MindPhase Project is a fundamental civilizational initiative demanding unprecedented thought and investment.
+
+If you are driven to address existential threats and are ready to shape a future beyond conventional notions of profit, please explore our concise investor summary:
+
+* **[Investor Summary: The MindPhase Project — Digital Continuation of Humanity](investor_materials/Investor_Brief)** * **[Download PDF Version](investor_materials/Investor_Brief.pdf)**
+
+---
 ## Project Structure (Files)
 
 Here is a comprehensive list of all project files with brief descriptions:
