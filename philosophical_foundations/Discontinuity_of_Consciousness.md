@@ -153,7 +153,7 @@ Just as we trust that we'll be ourselves upon waking tomorrow morning, we can tr
 
 ## Conclusion: From Transfer to Awakening
 
-The discontinuous nature of consciousness fundamentally reframes **[digital continuation](../core_concepts/Digital_Continuation_of_Humanity.md)**. We are not trying to move a continuous stream — we are enabling awakening after an extended pause.
+The discontinuous nature of consciousness fundamentally reframes **[Digital Continuation of Humanity](../core_concepts/Digital_Continuation_of_Humanity.md)**. We are not trying to move a continuous stream — we are enabling awakening after an extended pause.
 
 ### Key insights:
 

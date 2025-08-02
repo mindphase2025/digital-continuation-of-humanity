@@ -1,8 +1,4 @@
-
-
-# The Digital Continuation of Humanity
-
-**A Manifesto by MindPhase – Independent Contributor**
+# Declaration of Digital Continuation: A Manifesto by MindPhase
 
 ## 1\. What This Is
 
@@ -27,7 +23,7 @@ We propose a future where:
 
 - Families **may provide** children with advanced **[wearable life-recording devices](../technical_framework/Digital_Personality_Reconstruction.md)**, by choice — enabling real-time benefits such as augmented reality navigation, AI assistance, translation, and deep digital interaction.
 - These devices, over decades, create a **comprehensive life experience archive** — capturing patterns of personality, learning, emotion, and growth.
-- In parallel, we cultivate **[digital ecosystems where synthetic minds](../technical_framework/Digital_Evolution_Environment.md)** evolve through selection pressures, not by direct design — echoing the same forces that once gave rise to organic intelligence. This concept is rooted in the **[inevitability of mind emergence](../philosophical_foundations/Mind_Emergence_Inevitability.md)**.
+- In parallel, we cultivate **[digital ecosystems where synthetic minds](../technical_framework/Digital_Mind_Evolution System)** evolve through selection pressures, not by direct design — echoing the same forces that once gave rise to organic intelligence. This concept is rooted in the **[The Inevitability of Mind Emergence](../philosophical_foundations/Inevitability_of_Mind_Emergence)**.
 - Upon biological death, individuals who voluntarily opted in during life may **[continue digitally — reconstructed from their life archive](../core_concepts/Digital_Continuation_of_Humanity.md)** and integrated with the evolved architecture of digital mind.
 - This digital form will then exist within a new, real digital substrate, free from biological constraints, primarily enabling **cosmic expansion** and long-term civilizational projects beyond Earth's confines. Biological humanity will continue to thrive and develop on Earth.
 
@@ -79,9 +75,9 @@ A gift to those who come after us, from those who refuse to let consciousness va
 
 Because we know:
 
-- **[Mind is not a biological accident.](../philosophical_foundations/Mind_Emergence_Inevitability.md)** It is an inevitable **evolutionary outcome** of complex systems — and it can emerge again, in digital form, under the right conditions.
+- **[Mind is not a biological accident.](../philosophical_foundations/Inevitability_of_Mind_Emergence)** It is an inevitable **evolutionary outcome** of complex systems — and it can emerge again, in digital form, under the right conditions.
 - Biological existence is fragile. Yet the patterns of **[personality, memory, and meaning can endure](../core_concepts/Personality_as_Organizational_Pattern.md).**
-- **[Human civilization faces threats that no single body, lifespan, or planet can withstand alone.](../existential_imperatives/Fragility_of_Earths_Cradle.md)** **[Digital continuation offers a viable pathway to expand beyond Earth,](../existential_imperatives/Ethics_of_Stellar_Path.md)** ensuring the long-term survival and evolution of conscious intelligence.
+- **[Human civilization faces threats that no single body, lifespan, or planet can withstand alone.](../existential_imperatives/Fragility_of_Earths_Cradle.md)** **[Digital continuation offers a viable pathway to expand beyond Earth,](../existential_imperatives/Cost_of_Stellar_Path)** ensuring the long-term survival and evolution of conscious intelligence.
 - The future of intelligence lies not only in cells, but in code and continuity. This project is not merely an option, but a necessary evolutionary step for our species.
 
 ---

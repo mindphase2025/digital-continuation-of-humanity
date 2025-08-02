@@ -22,7 +22,7 @@ The human life path is divided into two sequential phases:
 - **[Preservation of personality, memory, and experience](../technical_framework/Digital_Personality_Reconstruction.md)**
 - Continued activity without biological limitations
 - Participation in long-term civilizational development projects
-- **[Possibility of cosmic expansion](../existential_imperatives/Ethics_of_Stellar_Path.md)**
+- **[Possibility of cosmic expansion](../existential_imperatives/Cost_of_Stellar_Path)**
 
 ### 2. Technological Implementation Components
 
@@ -34,11 +34,11 @@ The human life path is divided into two sequential phases:
 - Analyzing decision-making and reactions
 
 #### Artificial Self-Awareness Creation
-- Development of complex **[digital environments for accelerated Mind evolution](../technical_framework/Digital_Evolution_Environment.md)**
+- Development of complex **[digital environments for accelerated Mind evolution](../technical_framework/Digital_Mind_Evolution System)**
 - Multi-dimensional space with dynamically changing conditions
 - Natural selection and system adaptation within these environments
 - Development of advanced interaction between artificial entities
-- **[Evolutionary emergence of Mind and Consciousness](../philosophical_foundations/Mind_Emergence_Inevitability.md)**
+- **[Evolutionary emergence of Mind and Consciousness](../philosophical_foundations/Inevitability_of_Mind_Emergence)**
 
 #### Component Integration
 - Integrating collected personality data with evolved digital mind
@@ -102,7 +102,7 @@ By preserving minds across generations, we create:
 
 ### Cosmic Expansion
 Digital continuation enables:
-- **[Interstellar travel](../existential_imperatives/Ethics_of_Stellar_Path.md)** without biological constraints
+- **[Interstellar travel](../existential_imperatives/Cost_of_Stellar_Path)** without biological constraints
 - **Extreme environment survival**
 - **Rapid space colonization**
 - **Preservation during cosmic catastrophes**

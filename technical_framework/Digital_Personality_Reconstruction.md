@@ -1,7 +1,7 @@
 # Digital Personality Reconstruction: Technical Part
 
 ## Introduction: Focus on Achievable Technologies
-The concept of digital continuation of humanity must be based on realistic technical capabilities. Instead of attempting to capture every facial reaction or pupil movement, we focus on what can truly be recorded with quality and continuity. Key principle: complete recording of sensory experience - everything a person sees, hears, and does throughout their life. It is from this audio-video data, supplemented by basic physiological indicators, that memories and behavioral patterns are formed, constituting the **[foundation of personality](../core_concepts/Personality_as_Organizational_Pattern.md)**.
+The concept of digital continuation of humanity must be based on realistic technical capabilities. Instead of attempting to capture every facial reaction or pupil movement, we focus on what can truly be recorded with quality and continuity. Key principle: complete recording of sensory experience - everything a person sees, hears, and does throughout their life. It is from this audio-video data, supplemented by basic physiological indicators, that memories and behavioral patterns are formed, constituting the **[Personality as Organizational Pattern](../core_concepts/Personality_as_Organizational_Pattern.md)**.
 
 ## What We Can REALISTICALLY Capture
 

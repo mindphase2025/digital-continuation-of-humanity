@@ -35,7 +35,7 @@ We propose a fundamentally different path, rooted in deep understanding of evolu
 
 ## 2\. The Nature of Mind: Key Definitions
 
-Mind is not a coincidence — it is the natural outcome of evolution under pressure to solve complex, shifting problems. Mind enables tool use, environmental transformation, cooperation, and anticipation. It is the highest form of adaptability. The underlying principles of how mind emerges are detailed in **[The Inevitability of Mind Emergence](../philosophical_foundations/Mind_Emergence_Inevitability.md)**.
+Mind is not a coincidence — it is the natural outcome of evolution under pressure to solve complex, shifting problems. Mind enables tool use, environmental transformation, cooperation, and anticipation. It is the highest form of adaptability. The underlying principles of how mind emerges are detailed in **[The Inevitability of Mind Emergence](../philosophical_foundations/Inevitability_of_Mind_Emergence)**.
 
 Mind encompasses:
 - **Intelligence** - specific cognitive abilities for problem-solving and learning
@@ -50,7 +50,7 @@ Mind encompasses:
 The Digital Continuation of Humanity system operates through a dual-pathway approach that separates the creation of mind from the preservation of personality.
 
 **Pathway 1: Universal Mind Structure**
-Through accelerated digital evolution, we obtain a universal cognitive architecture capable of abstract thinking, self-awareness, and complex information processing. This creates the foundational capacity for consciousness without predetermined behavioral patterns. (See **[Digital Mind Evolution System](../technical_framework/Digital_Evolution_Environment.md)** and **[The Inevitability of Mind Emergence](../philosophical_foundations/Mind_Emergence_Inevitability.md)**).
+Through accelerated digital evolution, we obtain a universal cognitive architecture capable of abstract thinking, self-awareness, and complex information processing. This creates the foundational capacity for consciousness without predetermined behavioral patterns. (See **[Digital Mind Evolution System](../technical_framework/Digital_Mind_Evolution System)** and **[The Inevitability of Mind Emergence](../philosophical_foundations/Inevitability_of_Mind_Emergence)**).
 
 **Pathway 2: Personal Identity Content**
 Through lifelong experiential recording, we capture the specific memories, behavioral patterns, values, and emotional responses that constitute an individual's personality and identity. (See **[Digital Personality Reconstruction](../technical_framework/Digital_Personality_Reconstruction.md)**).
@@ -62,7 +62,7 @@ This evolutionary system is built in two key stages. First, a **rich 3D world** 
 
 ### 3.2 The Evolution and Mind Emergence
 
-We do not attempt to build a conscious mind from scratch. Instead, our path is to create the conditions for mind to emerge naturally, as the ultimate form of adaptation. This philosophy is detailed in **[The Inevitability of Mind Emergence](../philosophical_foundations/Mind_Emergence_Inevitability.md)**. Our digital evolutionary environment is designed to be ruthless, with periodic catastrophes that eliminate specialized species and reward universal adaptability. Mind is not a coincidence or a pre-programmed goal; it is the natural outcome and the most effective survival strategy. We do not directly reward intelligence in the early stages to prevent the emergence of "pseudo-intelligence" that merely imitates a reward system. For more on this, see **[Digital Evolution Environment](../technical_framework/Digital_Evolution_Environment.md)**. The mind must emerge as an inevitable byproduct of solving survival tasks. The resulting mind structures provide the cognitive framework that can then be integrated with individual personality data to create digital continuations of specific human consciousness.
+We do not attempt to build a conscious mind from scratch. Instead, our path is to create the conditions for mind to emerge naturally, as the ultimate form of adaptation. This philosophy is detailed in **[The Inevitability of Mind Emergence](../philosophical_foundations/Inevitability_of_Mind_Emergence)**. Our digital evolutionary environment is designed to be ruthless, with periodic catastrophes that eliminate specialized species and reward universal adaptability. Mind is not a coincidence or a pre-programmed goal; it is the natural outcome and the most effective survival strategy. We do not directly reward intelligence in the early stages to prevent the emergence of "pseudo-intelligence" that merely imitates a reward system. For more on this, see **[Digital Evolution Environment](../technical_framework/Digital_Mind_Evolution System)**. The mind must emerge as an inevitable byproduct of solving survival tasks. The resulting mind structures provide the cognitive framework that can then be integrated with individual personality data to create digital continuations of specific human consciousness.
 
 ### 3.3 The Lifelong Data Recording Method
 
@@ -143,7 +143,7 @@ Their mission includes resource extraction, infrastructure construction, and pre
 
 ### 5.4. Cosmic Expansion: Deep Space
 
-Biological humans are bound by the limits of flesh — radiation, aging, metabolic needs, and psychological fragility make long-duration space travel nearly impossible. But digital humans, preserved in robust hardware and stable software, can endure the cold silence between stars. This application is further detailed in **[Two-Phase Human Existence](../core_concepts/Two_Phase_Human_Existence.md)** and ethically explored in **[The Ethics of the Stellar Path](../existential_imperatives/Ethics_of_Stellar_Path.md)**.
+Biological humans are bound by the limits of flesh — radiation, aging, metabolic needs, and psychological fragility make long-duration space travel nearly impossible. But digital humans, preserved in robust hardware and stable software, can endure the cold silence between stars. This application is further detailed in **[Two-Phase Human Existence](../core_concepts/Two_Phase_Human_Existence.md)** and ethically explored in **[The Cost of the Stellar Path](../existential_imperatives/Cost_of_Stellar_Path)**.
 
 They do not suffer from boredom or cabin fever. They can travel dormant for centuries, awaken to explore, and continue their mission. Their goal is not to flee Earth, but to carry humanity beyond it — to become the eyes, hands, and memory of our civilization across the galaxy.
 
@@ -163,7 +163,7 @@ In time, if technology allows, these explorers may assist in transporting or eve
 
 ### 6.1 Estimated Budget and Feasibility
 
-This project does not require exotic physics or unknown technologies. The core components — large-scale computation, simulated environments, neural architectures — already exist or are actively developing. Preliminary estimates suggest that the creation of the first self-aware digital agents could require approximately $2 billion, with the potential for modular scaling. Detailed cost breakdowns are available in **[Digital Mind Evolution System](../technical_framework/Digital_Evolution_Environment.md)** and **[Digital Personality Reconstruction](../technical_framework/Digital_Personality_Reconstruction.md)**.
+This project does not require exotic physics or unknown technologies. The core components — large-scale computation, simulated environments, neural architectures — already exist or are actively developing. Preliminary estimates suggest that the creation of the first self-aware digital agents could require approximately $2 billion, with the potential for modular scaling. Detailed cost breakdowns are available in **[Digital Mind Evolution System](../technical_framework/Digital_Mind_Evolution System)** and **[Digital Personality Reconstruction](../technical_framework/Digital_Personality_Reconstruction.md)**.
 
 ### 6.2 Timeline and Milestones
 
@@ -181,7 +181,7 @@ The project operates through multiple parallel development tracks that converge 
 - Creation of evolutionary digital environments
 - Observation and analysis of emergent cognitive behaviors
 - Extraction and modularization of mind components
-- Development of consciousness integration frameworks (Detailed in **[Digital Mind Evolution System](../technical_framework/Digital_Evolution_Environment.md)**)
+- Development of consciousness integration frameworks (Detailed in **[Digital Mind Evolution System](../technical_framework/Digital_Mind_Evolution System)**)
 
 **Years 5-55+: Lifelong Data Collection**
 - Begins after recording devices are ready for deployment

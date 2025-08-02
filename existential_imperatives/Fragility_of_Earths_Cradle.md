@@ -36,7 +36,7 @@ This is not just a possibility – **it is an inevitability**. The question is n
 
 ## The Imperative for Space Expansion
 
-This is precisely why **[space expansion](../existential_imperatives/Ethics_of_Stellar_Path.md)** is not a whim or a romantic dream. **It is the only way to ensure the survival and continued development** not only of our biological species, but of everything that makes us human: our culture, art, science, and our ability to love and create. Only through expansion beyond Earth can we guarantee the continued advancement of knowledge, technology, and human understanding, as is central to the **[Digital Continuation of Humanity](../core_concepts/Digital_Continuation_of_Humanity.md)** project..
+This is precisely why **[space expansion](../existential_imperatives/Cost_of_Stellar_Path)** is not a whim or a romantic dream. **It is the only way to ensure the survival and continued development** not only of our biological species, but of everything that makes us human: our culture, art, science, and our ability to love and create. Only through expansion beyond Earth can we guarantee the continued advancement of knowledge, technology, and human understanding, as is central to the **[Digital Continuation of Humanity](../core_concepts/Digital_Continuation_of_Humanity.md)** project..
 
 ---
 

@@ -235,7 +235,7 @@ The result will be a digital mind with:
 - Developed spatial and temporal thinking.
 - Capacity for abstraction arising from interaction with a mathematically described world.
 - Clear self-sensing through bodily boundaries.
-- Readiness for **[integration with human personality and its patterns](https://www.google.com/search?q=../technical_framework/Digital_Personality_Reconstruction.md)**, based on the understanding of **[Personality as Organizational Pattern](https://www.google.com/search?q=../core_concepts/Personality_as_Organizational_Pattern.md)**.
+- Readiness for **[integration with human personality and its patterns](../technical_framework/Digital_Personality_Reconstruction.md)**, based on the understanding of **[Personality as Organizational Pattern](../core_concepts/Personality_as_Organizational_Pattern.md)**.
 
 This system represents a unique solution to the fundamental problem: how to create a sufficiently complex environment for mind emergence while maintaining computational efficiency for evolutionary acceleration, simultaneously paving the way for a new generation of immersive digital experiences.
 
