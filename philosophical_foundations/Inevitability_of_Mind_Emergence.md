@@ -80,7 +80,7 @@ It is important to understand: **we are not attempting to artificially create mi
 
 The material substrate—whether protein molecules or digital structures—is secondary to the fundamental law of evolution.
 
-Mind emerges not because we construct it, but because it represents the highest, most adaptive form of reality interaction. In this sense, its appearance in a **[properly organized evolutionary environment](../technical_framework/Digital_Mind_Evolution System)** is as inevitable as:
+Mind emerges not because we construct it, but because it represents the highest, most adaptive form of reality interaction. In this sense, its appearance in a **[properly organized evolutionary environment](../technical_framework/Digital_Mind_Evolution_System)** is as inevitable as:
 - The fall of a stone down a slope
 - Planetary orbital motion
 - The emergence of complexity from simple rules

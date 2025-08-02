@@ -12,7 +12,7 @@ The aim is not personal immortality, but rather to enable human **mind** to part
 
 Unlike traditional approaches to artificial intelligence or mind uploading, this framework proposes:
 
-- **[Accelerated Digital Evolution](technical_framework/Digital_Mind_Evolution System)**: Creating conditions where **mind** emerges naturally through evolutionary pressure, not through direct programming
+- **[Accelerated Digital Evolution](technical_framework/Digital_Mind_Evolution_System)**: Creating conditions where **mind** emerges naturally through evolutionary pressure, not through direct programming
 - **[Lifelong Experience Recording](technical_framework/Digital_Personality_Reconstruction.md)**: Comprehensive documentation of individual behavior, decisions, and experiences from childhood through adulthood
 - **[Personality as Pattern](core_concepts/Personality_as_Organizational_Pattern.md)**: Understanding **personality** as an organizational pattern that can be recreated in digital substrates
 - **[Two-Phase Existence](core_concepts/Two_Phase_Human_Existence.md)**: Natural biological life followed by voluntary digital continuation
@@ -120,7 +120,7 @@ Here is a comprehensive list of all project files with brief descriptions:
     * **[Declaration_of_Digital_Continuation](declarations/Declaration_of_Digital_Continuation.md)**: A foundational document outlining the vision, purpose, and ethical principles of the project.
 
 * `technical_framework/`
-    * **[Digital_Mind_Evolution System](technical_framework/Digital_Mind_Evolution System)**: Details the proposed system for accelerated digital evolution, **providing the conditions under which mind emerges naturally through evolutionary pressure**. This environment is built on the principles derived from the mathematical nature of reality.
+    * **[Digital_Mind_Evolution System](technical_framework/Digital_Mind_Evolution_System)**: Details the proposed system for accelerated digital evolution, **providing the conditions under which mind emerges naturally through evolutionary pressure**. This environment is built on the principles derived from the mathematical nature of reality.
     * **[Digital_Personality_Reconstruction](technical_framework/Digital_Personality_Reconstruction.md)**: Outlines the technical methods for recording life experience and reconstructing individual personality patterns.
 
 * `existential_imperatives/`

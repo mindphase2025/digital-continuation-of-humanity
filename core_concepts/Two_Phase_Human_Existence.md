@@ -34,7 +34,7 @@ The human life path is divided into two sequential phases:
 - Analyzing decision-making and reactions
 
 #### Artificial Self-Awareness Creation
-- Development of complex **[digital environments for accelerated Mind evolution](../technical_framework/Digital_Mind_Evolution System)**
+- Development of complex **[digital environments for accelerated Mind evolution](../technical_framework/Digital_Mind_Evolution_System)**
 - Multi-dimensional space with dynamically changing conditions
 - Natural selection and system adaptation within these environments
 - Development of advanced interaction between artificial entities

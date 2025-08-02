@@ -118,7 +118,7 @@ Understanding personality as an organizational pattern fundamentally changes our
 
 - Personality is a stable organizational pattern, not a substance tied to the body
 - The pattern maintains identity when changing carriers—just as we remain ourselves through natural bodily changes
-- Digital continuation is technically feasible through integration of recorded personality data **(See [Digital Personality Reconstruction](../technical_framework/Digital_Personality_Reconstruction.md))** with **[universal cognitive architecture](../technical_framework/Digital_Mind_Evolution System)**
+- Digital continuation is technically feasible through integration of recorded personality data **(See [Digital Personality Reconstruction](../technical_framework/Digital_Personality_Reconstruction.md))** with **[universal cognitive architecture](../technical_framework/Digital_Mind_Evolution_System)**
 - Functional continuity is more important than material carrier—preserving the way information is organized, not specific atoms or neurons
 
 ### Perspective

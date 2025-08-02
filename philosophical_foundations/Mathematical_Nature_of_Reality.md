@@ -13,7 +13,7 @@ Thus, no matter how complex the phenomenon we observe, we can, through successiv
 
 At present, **mind** remains the only phenomenon that still appears to us as a truly emergent property—one that we are not yet able to fully explain using the natural sciences. However, this does not pose a problem for our framework. We are not attempting to simulate the mind directly.
 
-Instead, we aim to model those **fundamental aspects of reality** and **evolutionary mechanisms** that are already understood—and which, we hypothesize, will naturally lead to the emergence of mind as a form of **super-adaptation** within digital environments. This philosophical understanding forms the bedrock for the design of the **[Digital Mind Evolution System](/technical_framework/Digital_Mind_Evolution System.md)**, demonstrating how a purely mathematical environment can be sufficient for the emergence of complex cognition.
+Instead, we aim to model those **fundamental aspects of reality** and **evolutionary mechanisms** that are already understood—and which, we hypothesize, will naturally lead to the emergence of mind as a form of **super-adaptation** within digital environments. This philosophical understanding forms the bedrock for the design of the **[Digital Mind Evolution System](/technical_framework/Digital_Mind_Evolution_System.md)**, demonstrating how a purely mathematical environment can be sufficient for the emergence of complex cognition.
 
 ---
 
