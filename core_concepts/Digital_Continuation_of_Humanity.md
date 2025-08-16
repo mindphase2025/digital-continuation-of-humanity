@@ -2,7 +2,7 @@
 
 ## 1. The Existential Problem
 
-## 1.1. Existential Threats to Humanity: The Necessity of Two Paths for the Future
+### 1.1. Existential Threats to Humanity: The Necessity of Two Paths for the Future
 
 Every human dies, and with them vanishes an entire world — memories, love, experience, self-awareness. However, the problem extends far beyond personal endings. Humanity, as a species, faces existential threats capable of erasing us from the face of Earth: **supervolcanoes, asteroids, pandemics, ecological collapse, and even the inevitable stellar evolution**. Any of these catastrophes could end our civilization. Moreover, there is a new, rapidly mounting threat: the emergence of **uncontrolled self-aware digital superintelligence**, capable of displacing or destroying humanity.
 
@@ -13,7 +13,7 @@ Confronting these threats, humanity has two complementary paths, deeply rooted i
 
 It is precisely now, when understanding of these threats is growing and technological development opens new possibilities, that we have the means to begin this dual path. For a detailed analysis of these threats, see **[The Fragility of Earth's Cradle](../existential_imperatives/Fragility_of_Earths_Cradle.md)**.
 
-## 1.2. Why Biological Humanity Is Unsuited for Cosmic Expansion
+### 1.2. Why Biological Humanity Is Unsuited for Cosmic Expansion
 
 While the idea of space colonization seems like humanity's natural next step, our biological form, despite its complexity and beauty, **is not adapted for long-term existence beyond Earth**:
 
@@ -23,7 +23,7 @@ While the idea of space colonization seems like humanity's natural next step, ou
 
 It is clear that true cosmic expansion and long-term civilizational sustainability require a fundamentally different form of existence, capable of surviving long journeys and being less vulnerable to cosmic threats. Since the most vulnerable to external influences and the passage of time is the brain, it becomes obvious that **consciousness must function on a non-biological substrate**. Cyborgization in this context is meaningless, as it does not solve the problem of biological brain vulnerability. The question arises: what existing approaches to implementing non-biological consciousness have been proposed, and how suitable are they for this purpose?
 
-## 1.3. The Inadequacy of Existing Concepts of Digital Immortality
+### 1.3. The Inadequacy of Existing Concepts of Digital Immortality
 
 Today, numerous concepts have been proposed for preserving consciousness or saving humanity through transition to digital form. However, upon detailed examination, **none of these traditional approaches is scientifically sound or implementable**:
 
